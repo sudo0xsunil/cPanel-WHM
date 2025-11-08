@@ -1,4 +1,4 @@
-# CloudLinux Shared OS Pro - Automated Installation Script Without CloudLinux Key or Trial
+# CloudLinux Shared OS Pro - Automated Installation Script Without CloudLinux Key or Trial Registration
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![OS](https://img.shields.io/badge/OS-Rocky%20Linux%209-green.svg)](https://rockylinux.org/)
@@ -15,7 +15,7 @@ An automated bash script to install CloudLinux Shared OS Pro on Rocky Linux 9, A
 
 **THIS SCRIPT IS FOR INSTALLATION PURPOSES ONLY**
 
-- This script **ONLY** automates the installation process of CloudLinux OS
+- This script **ONLY** automates the installation process of CloudLinux OS Without Key or Trial Registration
 - You **MUST** purchase a valid CloudLinux license from [CloudLinux Official Website](https://www.cloudlinux.com/) or authorized vendors
 - This script does **NOT** provide, bypass, or crack CloudLinux licenses
 - **CloudLinux® is a registered trademark** of Cloud Linux Inc.
