@@ -93,14 +93,14 @@ To use CloudLinux legally, you **MUST**:
 
 ## 📥 Quick Installation
 ```bash
-curl -sS https://raw.githubusercontent.com/sudo0xsunil/cloudlinux-installer/main/install.sh | bash
+curl -sS https://github.com/sudo0xsunil/cPanel-WHM/blob/main/cloud-linux-shared-os-pro.sh | bash
 ```
 
 Or download and run manually:
 ```bash
-wget https://raw.githubusercontent.com/sudo0xsunil/cloudlinux-installer/main/install.sh
-chmod +x install.sh
-./install.sh
+wget https://github.com/sudo0xsunil/cPanel-WHM/blob/main/cloud-linux-shared-os-pro.sh
+chmod +x cloud-linux-shared-os-pro.sh
+./cloud-linux-shared-os-pro.sh
 ```
 
 
@@ -108,8 +108,8 @@ chmod +x install.sh
 
 ### Basic Installation
 ```bash
-chmod +x install_cloudlinux.sh
-./install_cloudlinux.sh
+chmod +x cloud-linux-shared-os-pro.sh
+./cloud-linux-shared-os-pro.sh
 ```
 
 ### With License Key
