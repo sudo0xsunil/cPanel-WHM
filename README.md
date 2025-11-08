@@ -1,4 +1,4 @@
-# CloudLinux Shared OS Pro - Automated Installation Script
+# CloudLinux Shared OS Pro - Automated Installation Script Without CloudLinux Key or Trial
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![OS](https://img.shields.io/badge/OS-Rocky%20Linux%209-green.svg)](https://rockylinux.org/)
